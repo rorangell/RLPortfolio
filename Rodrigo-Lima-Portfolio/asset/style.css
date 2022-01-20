@@ -1,0 +1,30 @@
+.header {
+    padding: 20px;
+    margin-right: 20px;
+    font-size: 20px;
+    text-align: center;
+    border:black;
+    background-color: rgba(216, 235, 238, 0.966);
+    flex-wrap: wrap;
+    position:relative;
+    text-align: center;
+    display: inline-block;
+}
+
+.Rod {
+    flex-wrap: wrap;
+    height: 800px;
+    width: 100%;
+    background-image: url("https://cdn.pixabay.com/photo/2021/12/11/07/59/hotel-6862159_960_720.jpg"); /* this image will be replace for*/
+    margin-bottom: 20px;
+    background-size:cover;
+    background-position:center;
+    
+}
+
+.demo {
+    list-style-type:none;
+    margin: 1000;
+    padding: 1000;
+}
+
